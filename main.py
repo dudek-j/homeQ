@@ -135,7 +135,7 @@ def run():
     dataPoints = []
 
     for idx, url in enumerate(urls):
-        print(f'{idx + 1}/{len(urls)}')
+#        print(f'{idx + 1}/{len(urls)}')
         queueData = extractQueueData(url)
         if queueData:
             dataPoints.append((queueData, url))
