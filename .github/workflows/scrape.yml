@@ -14,8 +14,8 @@ jobs:
       - name: Pipenv for Github Actions
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
-          command: install
-      - name: Pipenv for Github Actions
-        uses: VaultVulp/action-pipenv@v2.0.1
-        with:
-          command: shell
+          command: requirements >> requirements.txt
+      - name: Install all necessary packages
+        run: pip install -r requirements.txt
+      - name: Run the scraping script
+        run: python main.py
