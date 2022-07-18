@@ -19,11 +19,14 @@ jobs:
         run: pip install -r requirements.txt
       - name: Run the scraping script
         run: python main.py > output.txt
+      - name: Extract average
+        run: "echo `date +'%Y-%m-%d %H:%M'`: `cat output.txt | tail -1` >> average.txt"
       - name: Commit and push if content changed
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           git add output.txt || exit 0
-          timestamp=$(date -u)
+          git add average.txt || exit 0
+          timestamp=$(date +'%Y-%m-%d %H:%M')
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
