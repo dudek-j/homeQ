@@ -14,11 +14,11 @@ jobs:
       - name: Generate requirements from pipenv file
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
-          command: requirements >> requirements.txt
+          command: requirements > requirements.txt
       - name: Install requiremeents
         run: pip install -r requirements.txt
       - name: Run the scraping script
-        run: python main.py >> output.txt
+        run: python main.py > output.txt
       - name: Commit and push if content changed
         run: |-
           git config user.name "Automated"
