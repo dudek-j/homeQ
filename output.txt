@@ -1,91 +1,3 @@
-1/50
-2/50
-3/50
-4/50
-5/50
-6/50
-7/50
-8/50
-9/50
-10/50
-11/50
-12/50
-13/50
-14/50
-15/50
-16/50
-17/50
-18/50
-19/50
-20/50
-21/50
-22/50
-23/50
-24/50
-25/50
-26/50
-27/50
-28/50
-29/50
-30/50
-31/50
-32/50
-33/50
-34/50
-35/50
-36/50
-37/50
-38/50
-39/50
-40/50
-41/50
-42/50
-43/50
-44/50
-45/50
-46/50
-47/50
-48/50
-49/50
-50/50
-93: https://www.homeq.se/lagenhet/57049-2rum-onsala-hallands-lan-kopparvagen/?ht_source=individual.57049&ht_container=search_results_list&ht_position=51&
-293: https://www.homeq.se/lagenhet/57205-3rum-goteborg-vastra-gotalands-lan-atmosfargatan/?ht_source=individual.57205&ht_container=search_results_list&ht_position=46&
-362: https://www.homeq.se/lagenhet/56863-2rum-torslanda-vastra-gotalands-lan-torslanda-torg/?ht_source=individual.56863&ht_container=search_results_list&ht_position=48&
-610: https://www.homeq.se/lagenhet/57213-2rum-goteborg-vastra-gotalands-lan-atmosfargatan/?ht_source=individual.57213&ht_container=search_results_list&ht_position=43&
-613: https://www.homeq.se/lagenhet/57158-2rum-goteborg-vastra-gotalands-lan-langstromsgatan/?ht_source=individual.57158&ht_container=search_results_list&ht_position=40&
-651: https://www.homeq.se/lagenhet/57204-2rum-goteborg-vastra-gotalands-lan-atmosfargatan/?ht_source=individual.57204&ht_container=search_results_list&ht_position=44&
-752: https://www.homeq.se/lagenhet/56878-3rum-goteborg-vastra-gotalands-lan-allhelgonagatan/?ht_source=individual.56878&ht_container=search_results_list&ht_position=47&
-881: https://www.homeq.se/lagenhet/56894-3rum-alingsas-vastra-gotalands-lan-bjorkhagegatan/?ht_source=individual.56894&ht_container=search_results_list&ht_position=53&
-901: https://www.homeq.se/lagenhet/57679-2rum-goteborg-vastra-gotalands-lan-gustaf-dalensgatan/?ht_source=individual.57679&ht_container=search_results_list&ht_position=36&
-948: https://www.homeq.se/lagenhet/56831-2rum-surte-vastra-gotalands-lan-goteborgsvagen/?ht_source=individual.56831&ht_container=search_results_list&ht_position=50&
-949: https://www.homeq.se/lagenhet/57281-4rum-vastra-frolunda-vastra-gotalands-lan-tuppfjatsgatan/?ht_source=individual.57281&ht_container=search_results_list&ht_position=2&
-996: https://www.homeq.se/lagenhet/57416-2rum-goteborg-vastra-gotalands-lan-fribergsgatan/?ht_source=individual.57416&ht_container=search_results_list&ht_position=12&
-1011: https://www.homeq.se/lagenhet/56484-2rum-alingsas-vastra-gotalands-lan-bolltorpsvagen/?ht_source=individual.56484&ht_container=search_results_list&ht_position=56&
-1039: https://www.homeq.se/lagenhet/57677-2rum-goteborg-vastra-gotalands-lan-langangen/?ht_source=individual.57677&ht_container=search_results_list&ht_position=32&
-1057: https://www.homeq.se/lagenhet/56837-2rum-goteborg-vastra-gotalands-lan-ebbe-lieberathsgatan/?ht_source=individual.56837&ht_container=search_results_list&ht_position=5&
-1122: https://www.homeq.se/lagenhet/56440-2rum-goteborg-vastra-gotalands-lan-hogsbogatan/?ht_source=individual.56440&ht_container=search_results_list&ht_position=9&
-1139: https://www.homeq.se/lagenhet/55887-4rum-goteborg-vastra-gotalands-lan-mejerigatan/?ht_source=individual.55887&ht_container=search_results_list&ht_position=10&
-1150: https://www.homeq.se/lagenhet/57673-3rum-goteborg-vastra-gotalands-lan-hallskriftsgatan/?ht_source=individual.57673&ht_container=search_results_list&ht_position=39&
-1180: https://www.homeq.se/lagenhet/56749-2rum-goteborg-vastra-gotalands-lan-lilla-tunnlandsgatan/?ht_source=individual.56749&ht_container=search_results_list&ht_position=3&
-1224: https://www.homeq.se/lagenhet/54249-2rum-goteborg-vastra-gotalands-lan-stabbegatan/?ht_source=individual.54249&ht_container=search_results_list&ht_position=31&
-1235: https://www.homeq.se/lagenhet/56443-2rum-goteborg-vastra-gotalands-lan-hogsbogatan/?ht_source=individual.56443&ht_container=search_results_list&ht_position=8&
-1251: https://www.homeq.se/lagenhet/56818-2rum-goteborg-vastra-gotalands-lan-ebbe-lieberathsgatan/?ht_source=individual.56818&ht_container=search_results_list&ht_position=6&
-1255: https://www.homeq.se/lagenhet/57678-2rum-goteborg-vastra-gotalands-lan-lantmataregatan/?ht_source=individual.57678&ht_container=search_results_list&ht_position=35&
-1266: https://www.homeq.se/lagenhet/57294-2rum-goteborg-vastra-gotalands-lan-norra-gubberogatan/?ht_source=individual.57294&ht_container=search_results_list&ht_position=21&
-1277: https://www.homeq.se/lagenhet/54971-2rum-goteborg-vastra-gotalands-lan-lundgatan/?ht_source=individual.54971&ht_container=search_results_list&ht_position=16&
-1284: https://www.homeq.se/lagenhet/54966-3rum-goteborg-vastra-gotalands-lan-norra-saterigatan/?ht_source=individual.54966&ht_container=search_results_list&ht_position=22&
-1284: https://www.homeq.se/lagenhet/56890-2rum-goteborg-vastra-gotalands-lan-lundbygatan/?ht_source=individual.56890&ht_container=search_results_list&ht_position=24&
-1285: https://www.homeq.se/lagenhet/54220-2rum-goteborg-vastra-gotalands-lan-gibraltargatan/?ht_source=individual.54220&ht_container=search_results_list&ht_position=11&
-1285: https://www.homeq.se/lagenhet/54967-3rum-goteborg-vastra-gotalands-lan-norra-saterigatan/?ht_source=individual.54967&ht_container=search_results_list&ht_position=23&
-1285: https://www.homeq.se/lagenhet/57279-2rum-goteborg-vastra-gotalands-lan-frantorpsgatan/?ht_source=individual.57279&ht_container=search_results_list&ht_position=41&
-1286: https://www.homeq.se/lagenhet/49021-2rum-goteborg-vastra-gotalands-lan-cederbourgsgatan/?ht_source=individual.49021&ht_container=search_results_list&ht_position=13&
-1304: https://www.homeq.se/lagenhet/52974-2rum-goteborg-vastra-gotalands-lan-enekullegatan/?ht_source=individual.52974&ht_container=search_results_list&ht_position=28&
-1326: https://www.homeq.se/lagenhet/53719-2rum-goteborg-vastra-gotalands-lan-s:t-pauligatan/?ht_source=individual.53719&ht_container=search_results_list&ht_position=15&
-1326: https://www.homeq.se/lagenhet/56438-2rum-goteborg-vastra-gotalands-lan-ovre-olskroksgatan/?ht_source=individual.56438&ht_container=search_results_list&ht_position=29&
-1346: https://www.homeq.se/lagenhet/54976-2rum-goteborg-vastra-gotalands-lan-enekullegatan/?ht_source=individual.54976&ht_container=search_results_list&ht_position=25&
-1394: https://www.homeq.se/lagenhet/55549-2rum-goteborg-vastra-gotalands-lan-prastgardsangen/?ht_source=individual.55549&ht_container=search_results_list&ht_position=14&
-1458: https://www.homeq.se/lagenhet/57460-2rum-goteborg-vastra-gotalands-lan-fryxellsgatan/?ht_source=individual.57460&ht_container=search_results_list&ht_position=37&
-1057.2432432432433
 323: https://www.homeq.se/lagenhet/57205-3rum-goteborg-vastra-gotalands-lan-atmosfargatan/?ht_source=individual.57205&ht_container=search_results_list&ht_position=45&
 363: https://www.homeq.se/lagenhet/56863-2rum-torslanda-vastra-gotalands-lan-torslanda-torg/?ht_source=individual.56863&ht_container=search_results_list&ht_position=46&
 560: https://www.homeq.se/lagenhet/57158-2rum-goteborg-vastra-gotalands-lan-langstromsgatan/?ht_source=individual.57158&ht_container=search_results_list&ht_position=40&
@@ -116,8 +28,9 @@
 1286: https://www.homeq.se/lagenhet/56890-2rum-goteborg-vastra-gotalands-lan-lundbygatan/?ht_source=individual.56890&ht_container=search_results_list&ht_position=25&
 1287: https://www.homeq.se/lagenhet/49021-2rum-goteborg-vastra-gotalands-lan-cederbourgsgatan/?ht_source=individual.49021&ht_container=search_results_list&ht_position=14&
 1287: https://www.homeq.se/lagenhet/57279-2rum-goteborg-vastra-gotalands-lan-frantorpsgatan/?ht_source=individual.57279&ht_container=search_results_list&ht_position=41&
+1291: https://www.homeq.se/lagenhet/52974-2rum-goteborg-vastra-gotalands-lan-enekullegatan/?ht_source=individual.52974&ht_container=search_results_list&ht_position=29&
 1327: https://www.homeq.se/lagenhet/56438-2rum-goteborg-vastra-gotalands-lan-ovre-olskroksgatan/?ht_source=individual.56438&ht_container=search_results_list&ht_position=30&
 1332: https://www.homeq.se/lagenhet/53719-2rum-goteborg-vastra-gotalands-lan-s:t-pauligatan/?ht_source=individual.53719&ht_container=search_results_list&ht_position=16&
 1339: https://www.homeq.se/lagenhet/54976-2rum-goteborg-vastra-gotalands-lan-enekullegatan/?ht_source=individual.54976&ht_container=search_results_list&ht_position=26&
 1347: https://www.homeq.se/lagenhet/55549-2rum-goteborg-vastra-gotalands-lan-prastgardsangen/?ht_source=individual.55549&ht_container=search_results_list&ht_position=15&
-1077.5882352941176
+1083.6857142857143
