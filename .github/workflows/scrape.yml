@@ -1,6 +1,8 @@
 name: scrape
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '30 11 * * *'
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -18,14 +20,14 @@ jobs:
       - name: Install requiremeents
         run: pip install -r requirements.txt
       - name: Run the scraping script
-        run: python main.py > output.txt
+        run: python main.py > readme.md
       - name: Extract average
-        run: "echo `date +'%Y-%m-%d %H:%M'`: `cat output.txt | tail -1` >> average.txt"
+        run: "echo `date +'%Y-%m-%d %H:%M'`: `cat readme.md | tail -1` >> average.txt"
       - name: Commit and push if content changed
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
-          git add output.txt || exit 0
+          git add readme.md || exit 0
           git add average.txt || exit 0
           timestamp=$(date +'%Y-%m-%d %H:%M')
           git commit -m "Latest data: ${timestamp}" || exit 0

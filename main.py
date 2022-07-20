@@ -90,12 +90,24 @@ def loadADPageHTML():
         by=By.CLASS_NAME, value="homeq-ad").get_attribute('innerHTML')
 
 
-def extractQueueData(url):
+def extractAdData(url):
     try:
         driver.get(url)
         soup = BeautifulSoup(loadADPageHTML(), 'html.parser')
-        res = soup.find("div", class_="homeq-ad-transparency").getText()
-        return parseQueueDataString(res)
+
+        queueSize = parseQueueDataString(
+            soup.find("div", class_="homeq-ad-transparency").getText())
+
+        if not queueSize:
+            return None
+
+        res = {}
+        res['url'] = url
+        res['queueSize'] = queueSize
+        res['streetName'] = soup.find(
+            "div", class_="homeq-ad-description").find('p').getText()
+
+        return res
     except:
         return None
 
@@ -134,19 +146,20 @@ def run():
 
     dataPoints = []
 
-    for idx, url in enumerate(urls):
-#        print(f'{idx + 1}/{len(urls)}')
-        queueData = extractQueueData(url)
+    for url in urls:
+        queueData = extractAdData(url)
         if queueData:
-            dataPoints.append((queueData, url))
+            dataPoints.append(queueData)
         time.sleep(2)
 
-    dataPoints.sort(key=lambda dp: int(dp[0]))
+    dataPoints.sort(key=lambda dp: int(dp["queueSize"]))
 
     for point in dataPoints:
-        print(f'{point[0]}: {point[1]}')
+        print(
+            f'- {point["queueSize"]}: [{point["streetName"]}]({point["url"]})')
 
-    print(mean(map(lambda x: int(x[0]), dataPoints)))
+    print()
+    print(mean(map(lambda x: int(x["queueSize"]), dataPoints)))
 
     driver.close()
 
