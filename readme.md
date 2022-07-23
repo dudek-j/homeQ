@@ -19,7 +19,6 @@
 - 1230: [Stabbegatan 27](https://www.homeq.se/lagenhet/54249-2rum-goteborg-vastra-gotalands-lan-stabbegatan/?ht_source=individual.54249&ht_container=search_results_list&ht_position=31&)
 - 1250: [Hällskriftsgatan 10 A](https://www.homeq.se/lagenhet/57673-3rum-goteborg-vastra-gotalands-lan-hallskriftsgatan/?ht_source=individual.57673&ht_container=search_results_list&ht_position=41&)
 - 1262: [Ebbe Lieberathsgatan 20 A](https://www.homeq.se/lagenhet/56818-2rum-goteborg-vastra-gotalands-lan-ebbe-lieberathsgatan/?ht_source=individual.56818&ht_container=search_results_list&ht_position=7&)
-- 1272: [Rörstrandsgatan 3](https://www.homeq.se/lagenhet/42935-2rum-goteborg-vastra-gotalands-lan-rorstrandsgatan/?ht_source=individual.42935&ht_container=search_results_list&ht_position=29&)
 - 1279: [Lundgatan 3A](https://www.homeq.se/lagenhet/54971-2rum-goteborg-vastra-gotalands-lan-lundgatan/?ht_source=individual.54971&ht_container=search_results_list&ht_position=16&)
 - 1280: [Norra Gubberogatan 12](https://www.homeq.se/lagenhet/57294-2rum-goteborg-vastra-gotalands-lan-norra-gubberogatan/?ht_source=individual.57294&ht_container=search_results_list&ht_position=19&)
 - 1284: [Lantmätaregatan 14 A](https://www.homeq.se/lagenhet/57678-2rum-goteborg-vastra-gotalands-lan-lantmataregatan/?ht_source=individual.57678&ht_container=search_results_list&ht_position=36&)
@@ -35,7 +34,7 @@
 - 1299: [Fräntorpsgatan 2C](https://www.homeq.se/lagenhet/57279-2rum-goteborg-vastra-gotalands-lan-frantorpsgatan/?ht_source=individual.57279&ht_container=search_results_list&ht_position=43&)
 - 1327: [Enekullegatan 2 A](https://www.homeq.se/lagenhet/54976-2rum-goteborg-vastra-gotalands-lan-enekullegatan/?ht_source=individual.54976&ht_container=search_results_list&ht_position=25&)
 - 1352: [S:t Pauligatan 32C](https://www.homeq.se/lagenhet/53719-2rum-goteborg-vastra-gotalands-lan-s:t-pauligatan/?ht_source=individual.53719&ht_container=search_results_list&ht_position=15&)
-- 1355: [Wieselgrensplatsen 21](https://www.homeq.se/lagenhet/57873-2rum-goteborg-vastra-gotalands-lan-wieselgrensplatsen/?ht_source=individual.57873&ht_container=search_results_list&ht_position=35&)
+- 1362: [Wieselgrensplatsen 21](https://www.homeq.se/lagenhet/57873-2rum-goteborg-vastra-gotalands-lan-wieselgrensplatsen/?ht_source=individual.57873&ht_container=search_results_list&ht_position=35&)
 - 1363: [Prästgårdsängen 7](https://www.homeq.se/lagenhet/55549-2rum-goteborg-vastra-gotalands-lan-prastgardsangen/?ht_source=individual.55549&ht_container=search_results_list&ht_position=14&)
 
-1100
+1095.657894736842
