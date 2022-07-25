@@ -34,8 +34,8 @@
 - 1294: [Lundbygatan 3A](https://www.homeq.se/lagenhet/56890-2rum-goteborg-vastra-gotalands-lan-lundbygatan/?ht_source=individual.56890&ht_container=search_results_list&ht_position=22&)
 - 1294: [Stobeegatan 8 A](https://www.homeq.se/lagenhet/57878-2rum-goteborg-vastra-gotalands-lan-stobeegatan/?ht_source=individual.57878&ht_container=search_results_list&ht_position=30&)
 - 1301: [Fräntorpsgatan 2C](https://www.homeq.se/lagenhet/57279-2rum-goteborg-vastra-gotalands-lan-frantorpsgatan/?ht_source=individual.57279&ht_container=search_results_list&ht_position=43&)
-- 1329: [Enekullegatan 2 A](https://www.homeq.se/lagenhet/54976-2rum-goteborg-vastra-gotalands-lan-enekullegatan/?ht_source=individual.54976&ht_container=search_results_list&ht_position=25&)
+- 1346: [Enekullegatan 2 A](https://www.homeq.se/lagenhet/54976-2rum-goteborg-vastra-gotalands-lan-enekullegatan/?ht_source=individual.54976&ht_container=search_results_list&ht_position=25&)
 - 1354: [S:t Pauligatan 32C](https://www.homeq.se/lagenhet/53719-2rum-goteborg-vastra-gotalands-lan-s:t-pauligatan/?ht_source=individual.53719&ht_container=search_results_list&ht_position=15&)
 - 1365: [Prästgårdsängen 7](https://www.homeq.se/lagenhet/55549-2rum-goteborg-vastra-gotalands-lan-prastgardsangen/?ht_source=individual.55549&ht_container=search_results_list&ht_position=14&)
 
-1098.7948717948718
+1099.2307692307693
