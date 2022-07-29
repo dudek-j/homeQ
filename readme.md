@@ -5,9 +5,8 @@
 - 508: [Långströmsgatan 48B](https://www.homeq.se/lagenhet/57158-2rum-goteborg-vastra-gotalands-lan-langstromsgatan/?ht_source=individual.57158&ht_container=search_results_list&ht_position=41&)
 - 594: [Arvid Lindmansgatan 7 C](https://www.homeq.se/lagenhet/57291-2rum-goteborg-vastra-gotalands-lan-arvid-lindmansgatan/?ht_source=individual.57291&ht_container=search_results_list&ht_position=39&)
 - 626: [Aprilgatan 54](https://www.homeq.se/lagenhet/58079-2rum-goteborg-vastra-gotalands-lan-aprilgatan/?ht_source=individual.58079&ht_container=search_results_list&ht_position=51&)
-- 825: [Långströmsgatan 48C](https://www.homeq.se/lagenhet/58142-2rum-goteborg-vastra-gotalands-lan-langstromsgatan/?ht_source=individual.58142&ht_container=search_results_list&ht_position=43&)
+- 961: [Tuppfjätsgatan 10](https://www.homeq.se/lagenhet/57281-4rum-vastra-frolunda-vastra-gotalands-lan-tuppfjatsgatan/?ht_source=individual.57281&ht_container=search_results_list&ht_position=3&)
 - 989: [Åby Allé 73](https://www.homeq.se/lagenhet/58051-2rum-goteborg-vastra-gotalands-lan-aby-alle/?ht_source=individual.58051&ht_container=search_results_list&ht_position=1&)
-- 995: [Tuppfjätsgatan 10](https://www.homeq.se/lagenhet/57281-4rum-vastra-frolunda-vastra-gotalands-lan-tuppfjatsgatan/?ht_source=individual.57281&ht_container=search_results_list&ht_position=3&)
 - 1023: [Allhelgonagatan 4](https://www.homeq.se/lagenhet/58071-2rum-goteborg-vastra-gotalands-lan-allhelgonagatan/?ht_source=individual.58071&ht_container=search_results_list&ht_position=48&)
 - 1049: [Nymilsgatan 43](https://www.homeq.se/lagenhet/57719-2rum-goteborg-vastra-gotalands-lan-nymilsgatan/?ht_source=individual.57719&ht_container=search_results_list&ht_position=5&)
 - 1053: [Smyckegatan 68](https://www.homeq.se/lagenhet/58087-3rum-vastra-frolunda-vastra-gotalands-lan-smyckegatan/?ht_source=individual.58087&ht_container=search_results_list&ht_position=10&)
@@ -20,7 +19,7 @@
 - 1160: [Smyckegatan 66](https://www.homeq.se/lagenhet/58088-2rum-vastra-frolunda-vastra-gotalands-lan-smyckegatan/?ht_source=individual.58088&ht_container=search_results_list&ht_position=9&)
 - 1222: [Högsbogatan 25](https://www.homeq.se/lagenhet/56440-2rum-goteborg-vastra-gotalands-lan-hogsbogatan/?ht_source=individual.56440&ht_container=search_results_list&ht_position=13&)
 - 1227: [Stabbegatan 27](https://www.homeq.se/lagenhet/54249-2rum-goteborg-vastra-gotalands-lan-stabbegatan/?ht_source=individual.54249&ht_container=search_results_list&ht_position=31&)
-- 1229: [Julaftonsgatan 33](https://www.homeq.se/lagenhet/58070-3rum-goteborg-vastra-gotalands-lan-julaftonsgatan/?ht_source=individual.58070&ht_container=search_results_list&ht_position=49&)
+- 1236: [Julaftonsgatan 33](https://www.homeq.se/lagenhet/58070-3rum-goteborg-vastra-gotalands-lan-julaftonsgatan/?ht_source=individual.58070&ht_container=search_results_list&ht_position=49&)
 - 1252: [Smyckegatan 86](https://www.homeq.se/lagenhet/56490-2rum-vastra-frolunda-vastra-gotalands-lan-smyckegatan/?ht_source=individual.56490&ht_container=search_results_list&ht_position=11&)
 - 1269: [Lilla Tunnlandsgatan 3](https://www.homeq.se/lagenhet/56749-2rum-goteborg-vastra-gotalands-lan-lilla-tunnlandsgatan/?ht_source=individual.56749&ht_container=search_results_list&ht_position=6&)
 - 1278: [Ebbe Lieberathsgatan 20 A](https://www.homeq.se/lagenhet/56818-2rum-goteborg-vastra-gotalands-lan-ebbe-lieberathsgatan/?ht_source=individual.56818&ht_container=search_results_list&ht_position=8&)
@@ -41,4 +40,4 @@
 - 1358: [Enekullegatan 2 A](https://www.homeq.se/lagenhet/54976-2rum-goteborg-vastra-gotalands-lan-enekullegatan/?ht_source=individual.54976&ht_container=search_results_list&ht_position=28&)
 - 1418: [Prästgårdsängen 7](https://www.homeq.se/lagenhet/55549-2rum-goteborg-vastra-gotalands-lan-prastgardsangen/?ht_source=individual.55549&ht_container=search_results_list&ht_position=19&)
 
-1079.7857142857142
+1085.341463414634
