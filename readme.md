@@ -3,15 +3,15 @@
 - 186: [Atmosfärgatan 47](https://www.homeq.se/lagenhet/57858-3rum-goteborg-vastra-gotalands-lan-atmosfargatan/?ht_source=individual.57858&ht_container=search_results_list&ht_position=53&)
 - 284: [Kosmosgatan 12](https://www.homeq.se/lagenhet/57859-3rum-goteborg-vastra-gotalands-lan-kosmosgatan/?ht_source=individual.57859&ht_container=search_results_list&ht_position=52&)
 - 335: [Atmosfärgatan 1](https://www.homeq.se/lagenhet/57843-3rum-goteborg-vastra-gotalands-lan-atmosfargatan/?ht_source=individual.57843&ht_container=search_results_list&ht_position=51&)
-- 337: [Karl Staaffsgatan 8B](https://www.homeq.se/lagenhet/58196-2rum-goteborg-vastra-gotalands-lan-karl-staaffsgatan/?ht_source=individual.58196&ht_container=search_results_list&ht_position=46&)
 - 397: [Torslanda Torg 4](https://www.homeq.se/lagenhet/56863-2rum-torslanda-vastra-gotalands-lan-torslanda-torg/?ht_source=individual.56863&ht_container=search_results_list&ht_position=58&)
+- 572: [Karl Staaffsgatan 8B](https://www.homeq.se/lagenhet/58196-2rum-goteborg-vastra-gotalands-lan-karl-staaffsgatan/?ht_source=individual.58196&ht_container=search_results_list&ht_position=46&)
 - 590: [Arvid Lindmansgatan 3C](https://www.homeq.se/lagenhet/58194-2rum-goteborg-vastra-gotalands-lan-arvid-lindmansgatan/?ht_source=individual.58194&ht_container=search_results_list&ht_position=43&)
 - 627: [Aprilgatan 54](https://www.homeq.se/lagenhet/58079-2rum-goteborg-vastra-gotalands-lan-aprilgatan/?ht_source=individual.58079&ht_container=search_results_list&ht_position=57&)
 - 799: [Arvid Lindmansgatan 7 A](https://www.homeq.se/lagenhet/58193-2rum-goteborg-vastra-gotalands-lan-arvid-lindmansgatan/?ht_source=individual.58193&ht_container=search_results_list&ht_position=44&)
-- 836: [Bolltorpsvägen 30A](https://www.homeq.se/lagenhet/58203-3rum-alingsas-vastra-gotalands-lan-bolltorpsvagen/?ht_source=individual.58203&ht_container=search_results_list&ht_position=64&)
-- 836: [Bolltorpsvägen 27C](https://www.homeq.se/lagenhet/58202-3rum-alingsas-vastra-gotalands-lan-bolltorpsvagen/?ht_source=individual.58202&ht_container=search_results_list&ht_position=65&)
+- 886: [Bolltorpsvägen 30A](https://www.homeq.se/lagenhet/58203-3rum-alingsas-vastra-gotalands-lan-bolltorpsvagen/?ht_source=individual.58203&ht_container=search_results_list&ht_position=64&)
+- 886: [Bolltorpsvägen 27C](https://www.homeq.se/lagenhet/58202-3rum-alingsas-vastra-gotalands-lan-bolltorpsvagen/?ht_source=individual.58202&ht_container=search_results_list&ht_position=65&)
 - 900: [Långströmsgatan 48C](https://www.homeq.se/lagenhet/58142-2rum-goteborg-vastra-gotalands-lan-langstromsgatan/?ht_source=individual.58142&ht_container=search_results_list&ht_position=49&)
-- 990: [Åby Allé 73](https://www.homeq.se/lagenhet/58051-2rum-goteborg-vastra-gotalands-lan-aby-alle/?ht_source=individual.58051&ht_container=search_results_list&ht_position=2&)
+- 992: [Åby Allé 73](https://www.homeq.se/lagenhet/58051-2rum-goteborg-vastra-gotalands-lan-aby-alle/?ht_source=individual.58051&ht_container=search_results_list&ht_position=2&)
 - 1006: [Tuppfjätsgatan 10](https://www.homeq.se/lagenhet/57281-4rum-vastra-frolunda-vastra-gotalands-lan-tuppfjatsgatan/?ht_source=individual.57281&ht_container=search_results_list&ht_position=4&)
 - 1032: [Allhelgonagatan 4](https://www.homeq.se/lagenhet/58071-2rum-goteborg-vastra-gotalands-lan-allhelgonagatan/?ht_source=individual.58071&ht_container=search_results_list&ht_position=54&)
 - 1053: [Wieselgrensplatsen 21](https://www.homeq.se/lagenhet/57873-2rum-goteborg-vastra-gotalands-lan-wieselgrensplatsen/?ht_source=individual.57873&ht_container=search_results_list&ht_position=39&)
@@ -48,4 +48,4 @@
 - 1351: [Enekullegatan 2 A](https://www.homeq.se/lagenhet/54976-2rum-goteborg-vastra-gotalands-lan-enekullegatan/?ht_source=individual.54976&ht_container=search_results_list&ht_position=32&)
 - 1419: [Prästgårdsängen 7](https://www.homeq.se/lagenhet/55549-2rum-goteborg-vastra-gotalands-lan-prastgardsangen/?ht_source=individual.55549&ht_container=search_results_list&ht_position=21&)
 
-1028.061224489796
+1034.938775510204
