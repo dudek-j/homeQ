@@ -20,7 +20,6 @@
 - 1087: [Smyckegatan 68](https://www.homeq.se/lagenhet/58087-3rum-vastra-frolunda-vastra-gotalands-lan-smyckegatan/?ht_source=individual.58087&ht_container=search_results_list&ht_position=11&)
 - 1091: [Gustaf Dalénsgatan 24](https://www.homeq.se/lagenhet/57679-2rum-goteborg-vastra-gotalands-lan-gustaf-dalensgatan/?ht_source=individual.57679&ht_container=search_results_list&ht_position=41&)
 - 1097: [Danagatan 14](https://www.homeq.se/lagenhet/58177-2rum-goteborg-vastra-gotalands-lan-danagatan/?ht_source=individual.58177&ht_container=search_results_list&ht_position=28&)
-- 1114: [Långängen 11](https://www.homeq.se/lagenhet/57677-2rum-goteborg-vastra-gotalands-lan-langangen/?ht_source=individual.57677&ht_container=search_results_list&ht_position=36&)
 - 1152: [Glasmästaregatan 13A](https://www.homeq.se/lagenhet/58124-3rum-goteborg-vastra-gotalands-lan-glasmastaregatan/?ht_source=individual.58124&ht_container=search_results_list&ht_position=13&)
 - 1164: [Smyckegatan 66](https://www.homeq.se/lagenhet/58088-2rum-vastra-frolunda-vastra-gotalands-lan-smyckegatan/?ht_source=individual.58088&ht_container=search_results_list&ht_position=10&)
 - 1189: [Aprilgatan 80](https://www.homeq.se/lagenhet/58081-2rum-goteborg-vastra-gotalands-lan-aprilgatan/?ht_source=individual.58081&ht_container=search_results_list&ht_position=56&)
@@ -42,10 +41,11 @@
 - 1299: [Enekullegatan 2 D](https://www.homeq.se/lagenhet/52974-2rum-goteborg-vastra-gotalands-lan-enekullegatan/?ht_source=individual.52974&ht_container=search_results_list&ht_position=34&)
 - 1300: [Cederbourgsgatan 5](https://www.homeq.se/lagenhet/49021-2rum-goteborg-vastra-gotalands-lan-cederbourgsgatan/?ht_source=individual.49021&ht_container=search_results_list&ht_position=18&)
 - 1300: [S:T Pauligatan 32 D](https://www.homeq.se/lagenhet/58199-3rum-goteborg-vastra-gotalands-lan-s:t-pauligatan/?ht_source=individual.58199&ht_container=search_results_list&ht_position=22&)
+- 1307: [Fräntorpsgatan 2C](https://www.homeq.se/lagenhet/57279-2rum-goteborg-vastra-gotalands-lan-frantorpsgatan/?ht_source=individual.57279&ht_container=search_results_list&ht_position=48&)
 - 1317: [S:T Pauligatan 32 B](https://www.homeq.se/lagenhet/58121-3rum-goteborg-vastra-gotalands-lan-s:t-pauligatan/?ht_source=individual.58121&ht_container=search_results_list&ht_position=23&)
 - 1328: [Rosensköldsgatan 11](https://www.homeq.se/lagenhet/58003-2rum-goteborg-vastra-gotalands-lan-rosenskoldsgatan/?ht_source=individual.58003&ht_container=search_results_list&ht_position=16&)
 - 1343: [Mäster Johansgatan 15](https://www.homeq.se/lagenhet/58044-2rum-goteborg-vastra-gotalands-lan-master-johansgatan/?ht_source=individual.58044&ht_container=search_results_list&ht_position=29&)
 - 1352: [Enekullegatan 2 A](https://www.homeq.se/lagenhet/54976-2rum-goteborg-vastra-gotalands-lan-enekullegatan/?ht_source=individual.54976&ht_container=search_results_list&ht_position=32&)
 - 1420: [Prästgårdsängen 7](https://www.homeq.se/lagenhet/55549-2rum-goteborg-vastra-gotalands-lan-prastgardsangen/?ht_source=individual.55549&ht_container=search_results_list&ht_position=21&)
 
-1034.4285714285713
+1038.3673469387754
