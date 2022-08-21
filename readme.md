@@ -55,6 +55,7 @@
 - 1303: [Lilla Tunnlandsgatan 3](https://www.homeq.se/lagenhet/56749-2rum-goteborg-vastra-gotalands-lan-lilla-tunnlandsgatan/?ht_source=individual.56749&ht_container=search_results_list&ht_position=15&)
 - 1303: [Övre Besvärsgatan 9](https://www.homeq.se/lagenhet/57524-3rum-goteborg-vastra-gotalands-lan-ovre-besvarsgatan/?ht_source=individual.57524&ht_container=search_results_list&ht_position=34&)
 - 1306: [Ebbe Lieberathsgatan 20 A](https://www.homeq.se/lagenhet/56818-2rum-goteborg-vastra-gotalands-lan-ebbe-lieberathsgatan/?ht_source=individual.56818&ht_container=search_results_list&ht_position=20&)
+- 1313: [Smyckegatan 83](https://www.homeq.se/lagenhet/59436-3rum-vastra-frolunda-vastra-gotalands-lan-smyckegatan/?ht_source=individual.59436&ht_container=search_results_list&ht_position=23&)
 - 1320: [Kullegatan 12 B](https://www.homeq.se/lagenhet/58491-3rum-goteborg-vastra-gotalands-lan-kullegatan/?ht_source=individual.58491&ht_container=search_results_list&ht_position=22&)
 - 1320: [Lilla Grevegårdsvägen 27](https://www.homeq.se/lagenhet/59249-3rum-vastra-frolunda-vastra-gotalands-lan-lilla-grevegardsvagen/?ht_source=individual.59249&ht_container=search_results_list&ht_position=24&)
 - 1320: [Övre Besvärsgatan 1](https://www.homeq.se/lagenhet/57536-2rum-goteborg-vastra-gotalands-lan-ovre-besvarsgatan/?ht_source=individual.57536&ht_container=search_results_list&ht_position=36&)
@@ -72,4 +73,4 @@
 - 1388: [Sparvgatan 1 D](https://www.homeq.se/lagenhet/59641-2rum-goteborg-vastra-gotalands-lan-sparvgatan/?ht_source=individual.59641&ht_container=search_results_list&ht_position=57&)
 - 1419: [Bangatan 24 A](https://www.homeq.se/lagenhet/57075-2rum-goteborg-vastra-gotalands-lan-bangatan/?ht_source=individual.57075&ht_container=search_results_list&ht_position=37&)
 
-1043.0958904109589
+1046.7432432432433
