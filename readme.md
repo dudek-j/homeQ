@@ -10,6 +10,7 @@
 - 723: [Våmmedalsvägen 42](https://www.homeq.se/lagenhet/60797-3rum-kallered-vastra-gotalands-lan-vammedalsvagen/?ht_source=individual.60797&ht_container=search_results_list&ht_position=14&)
 - 740: [Karneolgatan 63](https://www.homeq.se/lagenhet/60867-2rum-goteborg-vastra-gotalands-lan-karneolgatan/?ht_source=individual.60867&ht_container=search_results_list&ht_position=28&)
 - 741: [Pennygången 5](https://www.homeq.se/lagenhet/60879-2rum-goteborg-vastra-gotalands-lan-pennygangen/?ht_source=individual.60879&ht_container=search_results_list&ht_position=30&)
+- 792: [Wingårdsgatan 3A](https://www.homeq.se/lagenhet/60814-2rum-goteborg-vastra-gotalands-lan-wingardsgatan/?ht_source=individual.60814&ht_container=search_results_list&ht_position=56&)
 - 800: [Långströmsgatan 19B](https://www.homeq.se/lagenhet/60841-2rum-goteborg-vastra-gotalands-lan-langstromsgatan/?ht_source=individual.60841&ht_container=search_results_list&ht_position=79&)
 - 801: [Parkgatan 15](https://www.homeq.se/lagenhet/60043-3rum-kungsbacka-hallands-lan-parkgatan/?ht_source=individual.60043&ht_container=search_results_list&ht_position=102&)
 - 816: [Smaragdgatan 26](https://www.homeq.se/lagenhet/60564-2rum-vastra-frolunda-vastra-gotalands-lan-smaragdgatan/?ht_source=individual.60564&ht_container=search_results_list&ht_position=16&)
@@ -22,8 +23,8 @@
 - 906: [Gustaf Dalénsgatan 24](https://www.homeq.se/lagenhet/58874-2rum-goteborg-vastra-gotalands-lan-gustaf-dalensgatan/?ht_source=individual.58874&ht_container=search_results_list&ht_position=75&)
 - 928: [Galileis Gata 5](https://www.homeq.se/lagenhet/60866-2rum-goteborg-vastra-gotalands-lan-galileis-gata/?ht_source=individual.60866&ht_container=search_results_list&ht_position=98&)
 - 929: [Sångspelsgatan 2](https://www.homeq.se/lagenhet/59679-2rum-hisings-backa-vastra-gotalands-lan-sangspelsgatan/?ht_source=individual.59679&ht_container=search_results_list&ht_position=81&)
+- 946: [Nyebrogatan 3 A](https://www.homeq.se/lagenhet/60325-2rum-alingsas-vastra-gotalands-lan-nyebrogatan/?ht_source=individual.60325&ht_container=search_results_list&ht_position=109&)
 - 947: [Svängrumsgatan 27](https://www.homeq.se/lagenhet/59200-2rum-vastra-frolunda-vastra-gotalands-lan-svangrumsgatan/?ht_source=individual.59200&ht_container=search_results_list&ht_position=8&)
-- 947: [Nyebrogatan 3 A](https://www.homeq.se/lagenhet/60325-2rum-alingsas-vastra-gotalands-lan-nyebrogatan/?ht_source=individual.60325&ht_container=search_results_list&ht_position=109&)
 - 950: [Gustaf Dalénsgatan 24](https://www.homeq.se/lagenhet/58527-2rum-goteborg-vastra-gotalands-lan-gustaf-dalensgatan/?ht_source=individual.58527&ht_container=search_results_list&ht_position=74&)
 - 1002: [Karl Johansgatan 55](https://www.homeq.se/lagenhet/60787-2rum-goteborg-vastra-gotalands-lan-karl-johansgatan/?ht_source=individual.60787&ht_container=search_results_list&ht_position=42&)
 - 1003: [Stengetsgatan 2](https://www.homeq.se/lagenhet/59854-2rum-vastra-frolunda-vastra-gotalands-lan-stengetsgatan/?ht_source=individual.59854&ht_container=search_results_list&ht_position=41&)
@@ -55,7 +56,6 @@
 - 1304: [Sångspelsgatan 2](https://www.homeq.se/lagenhet/59678-2rum-hisings-backa-vastra-gotalands-lan-sangspelsgatan/?ht_source=individual.59678&ht_container=search_results_list&ht_position=82&)
 - 1310: [Kyrkogatan 5 B](https://www.homeq.se/lagenhet/59619-2rum-jonsered-vastra-gotalands-lan-kyrkogatan/?ht_source=individual.59619&ht_container=search_results_list&ht_position=103&)
 - 1313: [Biskopsgatan 2 A](https://www.homeq.se/lagenhet/60708-3rum-goteborg-vastra-gotalands-lan-biskopsgatan/?ht_source=individual.60708&ht_container=search_results_list&ht_position=61&)
-- 1316: [Wingårdsgatan 3A](https://www.homeq.se/lagenhet/60814-2rum-goteborg-vastra-gotalands-lan-wingardsgatan/?ht_source=individual.60814&ht_container=search_results_list&ht_position=56&)
 - 1325: [Hornsgatan 5B](https://www.homeq.se/lagenhet/58842-3rum-goteborg-vastra-gotalands-lan-hornsgatan/?ht_source=individual.58842&ht_container=search_results_list&ht_position=78&)
 - 1328: [Torkelsgatan 4A](https://www.homeq.se/lagenhet/60145-2rum-goteborg-vastra-gotalands-lan-torkelsgatan/?ht_source=individual.60145&ht_container=search_results_list&ht_position=58&)
 - 1331: [Ö Keillersgatan 1 A](https://www.homeq.se/lagenhet/60207-2rum-goteborg-vastra-gotalands-lan-o-keillersgatan/?ht_source=individual.60207&ht_container=search_results_list&ht_position=67&)
@@ -65,9 +65,8 @@
 - 1334: [Bangatan 39](https://www.homeq.se/lagenhet/60013-2rum-goteborg-vastra-gotalands-lan-bangatan/?ht_source=individual.60013&ht_container=search_results_list&ht_position=40&)
 - 1334: [Norra Gubberogatan 23 A](https://www.homeq.se/lagenhet/59189-2rum-goteborg-vastra-gotalands-lan-norra-gubberogatan/?ht_source=individual.59189&ht_container=search_results_list&ht_position=53&)
 - 1334: [Lantmätaregatan 2](https://www.homeq.se/lagenhet/60340-2rum-goteborg-vastra-gotalands-lan-lantmataregatan/?ht_source=individual.60340&ht_container=search_results_list&ht_position=68&)
-- 1372: [Carl Grimbergsgatan 13](https://www.homeq.se/lagenhet/60261-2rum-goteborg-vastra-gotalands-lan-carl-grimbergsgatan/?ht_source=individual.60261&ht_container=search_results_list&ht_position=33&)
 - 1386: [S:T Pauligatan 32 D](https://www.homeq.se/lagenhet/58199-3rum-goteborg-vastra-gotalands-lan-s:t-pauligatan/?ht_source=individual.58199&ht_container=search_results_list&ht_position=47&)
 - 1390: [Geijersgatan 7 B](https://www.homeq.se/lagenhet/60202-2rum-goteborg-vastra-gotalands-lan-geijersgatan/?ht_source=individual.60202&ht_container=search_results_list&ht_position=38&)
 - 1430: [Sparvgatan 1 D](https://www.homeq.se/lagenhet/59641-2rum-goteborg-vastra-gotalands-lan-sparvgatan/?ht_source=individual.59641&ht_container=search_results_list&ht_position=66&)
 
-1026.394366197183
+1013.9571428571429
